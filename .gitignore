@@ -1,0 +1,9 @@
+# Ignore Docker images
+*.tar
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+
+# Ignore output files
+output/
